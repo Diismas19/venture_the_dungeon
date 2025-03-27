@@ -1,4 +1,4 @@
-# venture_the_dungeon
+# Venture the dungeon
 
 This is a ideia of a game of RPG that simulates a short adventura in a dungeon. As I'm studying more about programming the game wil be updated.
 
